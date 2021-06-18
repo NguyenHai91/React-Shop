@@ -1,5 +1,5 @@
 
-export const serverURL = `http://127.0.0.1:8000`;
+export const serverURL = `hainguyen91.pythonanywhere.com`;
 
 export const endpoint = `${serverURL}`;
 export const usersURL = `${endpoint}/users`;
